@@ -14,5 +14,5 @@ function myFunction() {
 myFunction();
 
 
-document.write(details);
+
 document.getElementById("details").innerText = details;
